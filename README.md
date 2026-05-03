@@ -6,7 +6,7 @@ No persistence, no accounts, no prompt templates, no hard-coded categories.
 
 ## Live
 
-- URL: _set after Vercel deploy_
+- URL: pixii-ai-aeo-diagnostic.vercel.app
 - Password: contact the maintainer (or check Vercel env var `APP_PASSWORD`)
 
 ## Stack
